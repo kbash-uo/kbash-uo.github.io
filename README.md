@@ -5,7 +5,7 @@
 # Projects
 [cit281-p1](https://kbash-uo.github.io/cit281-p1/) - Gain experience working with VSCode and CLI commands
 
-cit281-p2 - Gain experience writing and executing non-web server Node.js JavaScript code
+[cit281-p2](https://kbash-uo.github.io/cit281-p2/) - Gain experience writing and executing non-web server Node.js JavaScript code
 
 cit201-p3 - Gain experience using Fastify with the GET verb, routes, and query parameters
 
