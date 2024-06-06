@@ -1,4 +1,5 @@
 # kbash-uo.github.io
+# Projects
 cit281-p1
 
 cit281-p2
@@ -13,6 +14,7 @@ cit281-p6
 
 cit281-p7
 
+# Labs
 cit281-lab1
 
 cit281-lab2
@@ -30,3 +32,5 @@ cit281-lab7
 cit281-lab8
 
 cit281-lab9
+
+
