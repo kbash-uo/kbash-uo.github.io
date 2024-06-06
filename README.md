@@ -7,7 +7,7 @@
 
 [cit281-p2](https://kbash-uo.github.io/cit281-p2/) - Gain experience writing and executing non-web server Node.js JavaScript code
 
-cit201-p3 - Gain experience using Fastify with the GET verb, routes, and query parameters
+[cit281-p3](https://kbash-uo.github.io/cit281-p3/) - Gain experience using Fastify with the GET verb, routes, and query parameters
 
 cit281-p4 - Practice creating and using code modules and modern JavaScript syntax
 
