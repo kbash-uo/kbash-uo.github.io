@@ -13,7 +13,7 @@
 
 [cit281-p6](https://kbash-uo.github.io/cit281-p6/) - Gain more experience using a generic block of code to process data
 
-cit281-p7 - Gain more experience working with GitHub repos and Pages
+[cit281-p7](https://kbash-uo.github.io/cit281-p7/) - Gain more experience working with GitHub repos and Pages
 
 # Labs
 cit281-lab1 - Install and setup computer with tools required for this course
