@@ -16,7 +16,7 @@
 [cit281-p7](https://kbash-uo.github.io/cit281-p7/) - Gain more experience working with GitHub repos and Pages
 
 # Labs
-cit281-lab1 - Install and setup computer with tools required for this course
+[cit281-lab1](https://kbash-uo.github.io/cit281-lab1/) - Install and setup computer with tools required for this course
 
 cit281-lab2 - Use CLI commands for git commands and for directory and file manipulation
 
