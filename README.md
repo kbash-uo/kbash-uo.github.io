@@ -11,7 +11,7 @@
 
 [cit281-p5](https://kbash-uo.github.io/cit281-p5/) - Gain experience working with classes, including class constructors and methods
 
-cit281-p6 - Gain more experience using a generic block of code to process data
+[cit281-p6](https://kbash-uo.github.io/cit281-p6/) - Gain more experience using a generic block of code to process data
 
 cit281-p7 - Gain more experience working with GitHub repos and Pages
 
