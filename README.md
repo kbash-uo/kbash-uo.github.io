@@ -9,9 +9,7 @@
 
 [cit281-p3](https://kbash-uo.github.io/cit281-p3/) - Gain experience using Fastify with the GET verb, routes, and query parameters
 
-cit281-p4 - Practice creating and using code modules and modern JavaScript syntax
-
-cit281-p5 - Gain experience working with classes, including class constructors and methods
+[cit281-p5](https://kbash-uo.github.io/cit281-p5/) - Gain experience working with classes, including class constructors and methods
 
 cit281-p6 - Gain more experience using a generic block of code to process data
 
