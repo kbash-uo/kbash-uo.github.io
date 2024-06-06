@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/kbash-uo/kbash-uo.github.io/blob/main/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash.jpg?raw=true)
 
 # Projects
-cit281-p1 - Gain experience working with VSCode and CLI commands
+[cit281-p1](https://kbash-uo.github.io/cit281-p1/) - Gain experience working with VSCode and CLI commands
 
 cit281-p2 - Gain experience writing and executing non-web server Node.js JavaScript code
 
