@@ -18,22 +18,22 @@ cit281-p6 - Gain more experience using a generic block of code to process data
 cit281-p7 - Gain more experience working with GitHub repos and Pages
 
 # Labs
-cit281-lab1
+cit281-lab1 - Install and setup computer with tools required for this course
 
-cit281-lab2
+cit281-lab2 - Use CLI commands for git commands and for directory and file manipulation
 
-cit281-lab3
+cit281-lab3 - Practice refactoring JavaScript code to use more modern syntax
 
-cit281-lab4
+cit281-lab4 - Practice creating an initial Fastify Node.js web server
 
-cit281-lab5
+cit281-lab5 - Practice using Postman to test server GET routes
 
-cit281-lab6
+cit281-lab6 - Gain experience with GitHub
 
-cit281-lab7
+cit281-lab7 - Practice creating own GitHub Personal Website Using GitHub Pages
 
-cit281-lab8
+cit281-lab8 - Practice coding with Fastify
 
-cit281-lab9
+cit281-lab9 - Gaining more experience with GitHub through a GitHub Learning Course
 
 
