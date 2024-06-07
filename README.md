@@ -22,7 +22,7 @@
 
 [cit281-lab3](https://kbash-uo.github.io/cit281-lab3/) - Practice refactoring JavaScript code to use more modern syntax
 
-cit281-lab4 - Practice creating an initial Fastify Node.js web server
+[cit281-lab4](https://kbash-uo.github.io/cit281-lab4/) - Practice creating an initial Fastify Node.js web server
 
 cit281-lab5 - Practice using Postman to test server GET routes
 
