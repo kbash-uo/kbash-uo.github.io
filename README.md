@@ -30,6 +30,6 @@
 
 [cit281-lab8](https://kbash-uo.github.io/cit281-lab8/) - Practice coding with Fastify
 
-cit281-lab9 - Gaining more experience with GitHub through a GitHub Learning Course
+[cit281-lab9](https://kbash-uo.github.io/cit281-lab9/) - Gaining more experience with GitHub through a GitHub Learning Course
 
 
