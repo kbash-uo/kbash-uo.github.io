@@ -20,7 +20,7 @@
 
 [cit281-lab2](https://kbash-uo.github.io/cit281-lab2/) - Use CLI commands for git commands and for directory and file manipulation
 
-cit281-lab3 - Practice refactoring JavaScript code to use more modern syntax
+[cit281-lab3](https://kbash-uo.github.io/cit281-lab3/) - Practice refactoring JavaScript code to use more modern syntax
 
 cit281-lab4 - Practice creating an initial Fastify Node.js web server
 
