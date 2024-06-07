@@ -24,9 +24,7 @@
 
 [cit281-lab4](https://kbash-uo.github.io/cit281-lab4/) - Practice creating an initial Fastify Node.js web server
 
-cit281-lab5 - Practice using Postman to test server GET routes
-
-cit281-lab6 - Gain experience with GitHub
+[cit281-lab6](https://kbash-uo.github.io/cit281-lab6/) - Gain experience with GitHub
 
 cit281-lab7 - Practice creating own GitHub Personal Website Using GitHub Pages
 
