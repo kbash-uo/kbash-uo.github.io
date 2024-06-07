@@ -18,7 +18,7 @@
 # Labs
 [cit281-lab1](https://kbash-uo.github.io/cit281-lab1/) - Install and setup computer with tools required for this course
 
-cit281-lab2 - Use CLI commands for git commands and for directory and file manipulation
+[cit281-lab2](https://kbash-uo.github.io/cit281-lab2/) - Use CLI commands for git commands and for directory and file manipulation
 
 cit281-lab3 - Practice refactoring JavaScript code to use more modern syntax
 
