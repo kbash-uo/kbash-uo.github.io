@@ -28,7 +28,7 @@
 
 [cit281-lab7](https://kbash-uo.github.io/cit281-lab7/) - Practice creating own GitHub Personal Website Using GitHub Pages
 
-cit281-lab8 - Practice coding with Fastify
+[cit281-lab8](https://kbash-uo.github.io/cit281-lab8/) - Practice coding with Fastify
 
 cit281-lab9 - Gaining more experience with GitHub through a GitHub Learning Course
 
